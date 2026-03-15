@@ -30,7 +30,7 @@ Control the snake to eat the blue food. Each piece of food makes the snake grow 
 ```bash
 git clone https://github.com/yourusername/snake-game.git
 cd snake-game
-'''
+```
 
 ### 2. Run the program
 
