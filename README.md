@@ -28,7 +28,7 @@ Control the snake to eat the blue food. Each piece of food makes the snake grow 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/yanagirdhar/Snake-Game.git
 cd snake-game
 ```
 
